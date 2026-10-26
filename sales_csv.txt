@@ -1,0 +1,16 @@
+TransactionID,Date,DayOfWeek,WeekNo,SellerID,SellerName,ProductCategory,ProductName,Quantity,UnitPrice,GrossSales,CommissionPerUnit,TotalCommission,Kanjo,Transport,Meals,Data_Credit,Store_Fee,Other_Expenses,TotalDailyExpenses,Weekly_Sales_Total
+T001,2026-08-23,Sunday,Week 1,S001,Salesperson 1,Long Trench Coat,Long Trench Coat,1,250,250,70.00,70.00,50.00,470.00,100.00,0.00,50.00,30.00,700.00,2100.00
+T002,2026-08-23,Sunday,Week 1,S001,Salesperson 1,Long Trench Coat,Long Trench Coat,2,175,350,70.00,140.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,2100.00
+T003,2026-08-23,Sunday,Week 1,S001,Salesperson 1,Long Trench Coat,Long Trench Coat,2,200,400,100.00,200.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,2100.00
+T004,2026-08-23,Sunday,Week 1,S001,Salesperson 1,Kofia Trench Coat,Kofia Trench Coat,1,350,350,70.00,70.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,2100.00
+T005,2026-08-23,Sunday,Week 1,S001,Salesperson 1,Kofia Trench Coat,Kofia Trench Coat,1,250,250,70.00,70.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,2100.00
+T006,2026-08-23,Sunday,Week 1,S001,Salesperson 1,Long Trench Coat,Long Trench Coat,1,250,250,70.00,70.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,2100.00
+T007,2026-08-24,Monday,Week 1,S001,Salesperson 1,Long Trench Coat,Long Trench Coat,2,200,400,70.00,140.00,100.00,0.00,100.00,0.00,0.00,200.00,400.00,950.00
+T008,2026-08-24,Monday,Week 1,S001,Salesperson 1,Kofia Trench Coat,Kofia Trench Coat,1,550,550,100.00,100.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,950.00
+T009,2026-08-30,Sunday,Week 2,S001,Salesperson 1,Plain Trench Coat,Plain Trench Coat,2,200,400,50.00,100.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,2420.00
+T010,2026-08-30,Sunday,Week 2,S001,Salesperson 1,Plain Trench Coat,Plain Trench Coat,1,200,200,50.00,50.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,2420.00
+T011,2026-08-30,Sunday,Week 2,S001,Salesperson 1,Kofia Trench Coat,Kofia Trench Coat,1,250,250,70.00,70.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,2420.00
+T012,2026-08-31,Monday,Week 2,S001,Salesperson 1,Plain Trench Coat,Plain Trench Coat,6,300,1800,80.00,480.00,0.00,0.00,0.00,0.00,0.00,450.00,450.00,2250.00
+T013,2026-10-08,Thursday,Week 7,S001,Salesperson 1,Long Trench Coat,Long Trench Coat,1,550,550,100.00,100.00,30.00,150.00,150.00,60.00,50.00,0.00,440.00,3620.00
+T014,2026-10-08,Thursday,Week 7,S001,Salesperson 1,Kofia Trench Coat,Kofia Trench Coat,2,450,900,100.00,200.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,3620.00
+T015,2026-10-08,Thursday,Week 7,S001,Salesperson 1,Plain Trench Coat,Plain Trench Coat,1,400,400,80.00,80.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,3620.00

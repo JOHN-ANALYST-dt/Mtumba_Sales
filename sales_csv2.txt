@@ -1,0 +1,4 @@
+PayrollID,PayPeriod,SellerID,SellerName,TotalNetSales,TotalGrossCommission,KanjoDeductions,TransportDeductions,MealsDeductions,OtherExpenses,TaxWithheld_10pct,NetPayout,PaymentStatus
+PAY-2026-W01,Week 1,S001,Salesperson 1,3050.00,860.00,150.00,470.00,200.00,80.00,86.00,0.00,Paid
+PAY-2026-W02,Week 2,S001,Salesperson 1,4670.00,700.00,0.00,0.00,0.00,450.00,70.00,180.00,Paid
+PAY-2026-W07,Week 7,S001,Salesperson 1,3620.00,380.00,30.00,150.00,150.00,110.00,38.00,-98.00,Pending
